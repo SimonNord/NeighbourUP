@@ -32,6 +32,5 @@ const addUser = new User({
 
 addUser.save((err, doc) => {
   if (err) return console.log(err);
-  console.log(doc._id.getTimestamp());
   return console.log('User added: \n', doc);
 });
