@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
+import Colors from 'variables';
 import Title from './components/Title';
-import Colors from '../../variables';
 
 const StyledForm = styled.form`
   display: flex;
