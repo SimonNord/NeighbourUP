@@ -463,7 +463,7 @@ Prio 1
 
 ### Andreas
 
-[Andreas Prototyp 1](<<https://www.figma.com/file/pdReiSDeZ3wnMitw17HIMv/wireframe-0.1-(Copy)>>)
+[Andreas Prototyp 1](<https://www.figma.com/file/pdReiSDeZ3wnMitw17HIMv/wireframe-0.1-(Copy)>)
 
 [Andreas Prototyp 2](https://www.figma.com/file/tKtYFQalyQMZqNIP4SHgts/prototype_v_001)
 
