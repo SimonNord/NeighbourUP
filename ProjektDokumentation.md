@@ -1,18 +1,60 @@
 # Project NeighbourUp
 
+## Index
+
+- [Project NeighbourUp](#project-neighbourup)
+  - [Index](#index)
+  - [The Team](#the-team)
+  - [Vad gör NeighbourUp](#vad-gör-neighbourup)
+  - [Features till MVP](#features-till-mvp)
+  - [Planering av arbete](#planering-av-arbete)
+    - [Reflektioner från förra grupparbetet](#reflektioner-från-förra-grupparbetet)
+    - [Vad är viktigt för oss i en grupp](#vad-är-viktigt-för-oss-i-en-grupp)
+    - [Hur vill vi lägga upp arbetet](#hur-vill-vi-lägga-upp-arbetet)
+    - [Vilka verktyg vill vi använda](#vilka-verktyg-vill-vi-använda)
+    - [Hur vill vi jobba med ledarskap](#hur-vill-vi-jobba-med-ledarskap)
+  - [Sprints](#sprints)
+    - [Sprint 1](#sprint-1)
+      - [Planering (21-23 April)](#planering-21-23-april)
+      - [Utvärdering](#utvärdering)
+    - [Möte med Cicely 13 maj 13-14:20](#möte-med-cicely-13-maj-13-1420)
+      - [Genomgång av arbetet hittills](#genomgång-av-arbetet-hittills)
+      - [Frågor](#frågor)
+    - [MVP](#mvp)
+  - [Hur vill vi lägga upp arbetet](#hur-vill-vi-lägga-upp-arbetet-1)
+    - [Vad ska vara klart innan sommaren](#vad-ska-vara-klart-innan-sommaren)
+      - [Betygskriterier](#betygskriterier)
+    - [Sprint 2 (23-27 April)](#sprint-2-23-27-april)
+      - [Utvärdering](#utvärdering-1)
+        - [Hur kan vi förbättras](#hur-kan-vi-förbättras)
+    - [Sprint 3 (28-30 April)](#sprint-3-28-30-april)
+      - [Frågor till Cicely](#frågor-till-cicely)
+      - [Utvärdering](#utvärdering-2)
+        - [Hur kan vi förbättras](#hur-kan-vi-förbättras-1)
+    - [Sprint 4 (30 April- 4 Maj)](#sprint-4-30-april--4-maj)
+      - [Utvärdering](#utvärdering-3)
+      - [Hur kan vi förbättras](#hur-kan-vi-förbättras-2)
+        - [OMRÖSTNING HEADER](#omröstning-header)
+  - [Design](#design)
+  - [Personas](#personas)
+    - [Eirik](#eirik)
+    - [Kent](#kent)
+    - [Maggan](#maggan)
+    - [Maria](#maria)
+    - [Ove](#ove)
+    - [Sally](#sally)
+
 ## The Team
 
 [Andréas Ny](https://github.com/andreasnyh),
-[Hung Ta](https://link/ByHT),
+[Hung Ta](https://github.com/ByHT),
 [Jonna F](https://github.com/jonnaliesel),
 [Per Egertun](https://github.com/peregertun),
 [Simon Nordström](https://github.com/simonnord)
 
-I denna uppgift skall ni i grupp arbeta med att ta en idé från ett konceptstadie till en beta-release. Ni kan välja att arbeta med en egen idé i en grupp.
+## Vad gör NeighbourUp
 
-## Vad
-
-En app som..
+En smidig app som gör grannsamverkan enkelt, utan att få massa överflödig information.
 
 - Viktig info
 - Medlemsinfo
@@ -38,7 +80,11 @@ En app som..
   - Listar de saker man har tillgängligt för utlåning.
   - Den som vill låna skickar förfrågan (antal dagar), ägaren får godkänna.
   - Datum och namn på den som har lånat listas under prylen.
-- Sida för användbara tjänster: Städning, sotare, trädfällning, elektriker
+- Sida för användbara tjänster:
+  - Städning
+  - Sotare
+  - Trädfällning
+  - Elektriker
 - Knapp för ringa polis/larmcentral
 - Bygga in väderplatstjänst?
 
@@ -64,11 +110,14 @@ En app som..
 ### Hur vill vi lägga upp arbetet
 
 - Korta sprints, med konkreta mål och prioriteringar
-- Review i varje sprint, där vi reflekterar och går igenom det som gjorts/behöver ändras till nästa sprint
-- Gemensam review så alla sätter sig in i allas kod, att den som gjort något får förklara
+- Review i varje sprint, där vi reflekterar och går igenom det som
+  gjorts/behöver ändras till nästa sprint
+- Gemensam review så alla sätter sig in i allas kod, att den som gjort något
+  får förklara
 - Jobba med backlog
 - Milestones och delmål
-- Jobba med pull requests, be om hjälp, be om review, jobba igenom ordentligt innan merge
+- Jobba med pull requests, be om hjälp, be om review, jobba igenom ordentligt
+  innan merge
 - Master branch redo för deploy
 - Branches efter feature, branchea ut från branches, inte allt från master
 - Skapa pull request när vi börjar jobba på en feature
@@ -89,7 +138,7 @@ En app som..
 Vi börjar utan en ledare i gruppen och utser en senare om det behövs,
 efter review av arbetet.
 Brainstorma idéer till projektet.
-Finns i separat dokument, bestämmer att vi bestämmer oss för idé 23/04/2020.
+Finns i separat dokument, ska ha bestämt oss för en idé vid nästa möte den 23/04/2020.
 
 ## Sprints
 
@@ -121,49 +170,61 @@ Lägg till pronomen vid registrering
 
 #### Frågor
 
-Testdriven utveckling? - Hur ska man testa?
-[Cypress.io](https://www.cypress.io/) (Can look into “Cypress and BDD”)
-Gherkin / cucumber
-Vad ingår i en beta-release / MVP?
-Prio 1 är lagom för uppgiften
-Tips för dokumentation?
-Koden ska vara självförklarande… helst.
-Över-dokumentera inte
-Dokumentera databasen, vad hur varför.
-Kunna göra planering och ekonomisk beräkning för er idé?
+- Testdriven utveckling? - Hur ska man testa?
+  [Cypress.io](https://www.cypress.io/) (Can look into “Cypress and BDD”)
+  Gherkin / cucumber
+- Vad ingår i en beta-release / MVP?
+  Prio 1 är lagom för uppgiften
+- Tips för dokumentation?
+  Koden ska vara självförklarande… helst.
+  Över-dokumentera inte
+  Dokumentera databasen, vad hur varför.
+- Kunna göra planering och ekonomisk beräkning för er idé?
+- Omfattningen vi har tänkt att göra klart för MVP är detta, kan det vara bra
+  eller krävs mer?
+  Omfattningen för vår prio 1 är lagon för uppgiftens omfattning.
+- Hur ska denna app tjäna pengar?
+  - Att man gör så att föreningar får prenumerera på tjänsten så att alla
+    medlemmar får tillgång till tjänsten.
+  - Lägga till någon typ av lokal reklam vid annonser.
 
-Omfattningen vi har tänkt att göra klart för MVP är detta, kan det vara bra eller krävs mer?
+### MVP
 
-Hur ska denna app tjäna pengar?
-Att man gör så att föreningar får prenumerera på tjänsten så att alla medlemmar får tillgång till tjänsten.
+Prio 1
 
-Lägga till någon typ av lokal reklam vid annonser.
+1. Inlogg
+2. Se vilka som finns i närheten?
+3. Skapa annonser
+4. Kommunicera med grannar
 
-MVP
-Inlogg
-se vilka som finns i närheten?
-Skapa annonser / kommunicera med grannar
+## Hur vill vi lägga upp arbetet
 
-Hur vill vi lägga upp arbetet?
-Daily standup 10:00 LST varje dag
-Vad gjorde du igår?
-Vad jobbar du på nu eller ska jobba med idag?
-Har du fastnat eller behöver du hjälp med någonting?
+- Daily standup 10:00 LST varje dag
+- Vad gjorde du igår?
+- Vad jobbar du på nu eller ska jobba med idag?
+- Har du fastnat eller behöver du hjälp med någonting?
+- Korta sprints, med konkreta mål och prioriteringar.
+- Review i varje sprint, där vi reflekterar och går igenom det som
+  gjorts/behöver ändras till nästa sprint.
+- Gemensam review så alla sätter sig in i allas kod, att den som gjort något
+  får förklara
+- Jobba med backlog
+- Milestones och delmål
+- Jobba med pull requests, be om hjälp, be om review, jobba igenom ordentligt
+  innan merge
+- Master branch redo för deploy
+- Branches efter feature, branch:a ut från branches, inte allt från master
+- Skapa pull request när vi börjar jobba på en feature
+  Exempel: master > login > style-form
+- Vilka verktyg vill vi använda?
+  - GitHub projects
+  - Milestones
+  - Jobba med taggar och flaggor
+  - Figma
+  - Driven för möten och anteckningar
+  - Dokumentera arbetet på GitHub med markdown
 
-Korta sprints, med konkreta mål och prioriteringar.
-Review i varje sprint, där vi reflekterar och går igenom det som gjorts/behöver ändras till nästa sprint.
-Gemensam review så alla sätter sig in i allas kod, att den som gjort något får förklara
-Jobba med backlog
-Milestones och delmål
-Jobba med pull requests, be om hjälp, be om review, jobba igenom ordentligt innan merge
-Master branch redo för deploy
-Branches efter feature, branch:a ut från branches, inte allt från master
-Skapa pull request när vi börjar jobba på en feature
-Exempel: master > login > style-form
-Vilka verktyg vill vi använda?
-GitHub projects, milestones, jobba med taggar och flaggor, Figma, Driven för möten och anteckningar, dokumentera arbetet på GitHub med markdown.
-
-#### Vad ska vara klart innan sommaren
+### Vad ska vara klart innan sommaren
 
 - Repo med projekt
 - Milestones
@@ -177,10 +238,9 @@ GitHub projects, milestones, jobba med taggar och flaggor, Figma, Driven för m�
   - Användningsbehov
   - Ogillar
   - Civilstånd
-
-Dokumentera planeringsfasen
-Presentation av affärsidé
-README-filer för kodstandard och beskrivning.
+- Dokumentera planeringsfasen
+- Presentation av affärsidé
+- README-filer för kodstandard och beskrivning.
 
 #### Betygskriterier
 
@@ -209,12 +269,14 @@ Milestones
 
 1. Bakläxa, gör klart alla personas och lägg till i mappen i Google Drive.
    Persona standard: Se “Single Sally”
-2. Viktigt att vi alla kan vara med på möten och att vi kommer överens om vilken tid som passar bäst.
+2. Viktigt att vi alla kan vara med på möten och att vi kommer överens om vilken
+   tid som passar bäst.
 3. Svårt att planera då allting känns lite luddigt just nu.
 
 ##### Hur kan vi förbättras
 
-Hitta en tid som passar alla, om någon får förhinder, kommunicera det så att vi kan boka om.
+Hitta en tid som passar alla, om någon får förhinder, kommunicera det så att
+vi kan boka om.
 
 ### Sprint 3 (28-30 April)
 
@@ -238,9 +300,12 @@ Hitta en tid som passar alla, om någon får förhinder, kommunicera det så att
 
 #### Utvärdering
 
-Vi tycker att denna sprinten har varit bättre än den förra, bättre samarbete och många känner sig produktiva.
+Vi tycker att denna sprinten har varit bättre än den förra, bättre samarbete och
+många känner sig produktiva.
 
-Vi har nu kommit överens om att behålla namnet NeighbourUP för projektet för nu, för att kunna gå vidare till andra delar. Detta kan ändras sen men vi vill kunna släppa detta för att gå vidare.
+Vi har nu kommit överens om att behålla namnet NeighbourUP för projektet för nu,
+för att kunna gå vidare till andra delar. Detta kan ändras sen men vi vill kunna
+släppa detta för att gå vidare.
 
 ##### Hur kan vi förbättras
 
@@ -261,27 +326,39 @@ Prototyp i Figma
 - Kalender
 - Registrera formulär
 - Inloggningsformulär
-
 - Dokumentera planeringsfasen
 - Presentation av affärsidé
 - README-filer för kodstandard och beskrivning.
 
 #### Utvärdering
 
-Vi kommer med olika förslag och alla känner att de kan säga vad de tycker men vi kommer ändå inte fram till någonting konkret.
+Vi kommer med olika förslag och alla känner att de kan säga vad de tycker men vi
+kommer ändå inte fram till någonting konkret.
 Denna sprint har det varit olika arbetsbörda på olika personer.
-Vi vill egentligen helst undvika jobb under helgen och att vi då istället skjuter på sprinten. I detta fall var det svårt eftersom att vi trodde att föreläsningar skulle starta denna vecka.
+Vi vill egentligen helst undvika jobb under helgen och att vi då istället skjuter
+på sprinten. I detta fall var det svårt eftersom att vi trodde att föreläsningar
+skulle starta denna vecka.
 
-##### Hur kan vi förbättras
+#### Hur kan vi förbättras
 
-Att vi under standups har diskussion om problem eller vägskäl. Till och med rösta om hur vi vill ha det, så att vi inte fastnar någonstans på vägen.
+Att vi under standups har diskussion om problem eller vägskäl.
+Till och med rösta om hur vi vill ha det, så att vi inte fastnar någonstans på vägen.
+
 Komma överens om arbetstid?
+
 Förbättrad kommunikation under arbetstid, ingen förväntad kommunikation utanför arbetstid.
-Snabbare avslut? Använda personas i diskussioner och beslut. Jobba mer tillsammans och stämma av oftare. Mer fokus på UX än design.
+
+Snabbare avslut genom att använda personas i diskussioner och beslut. Jobba mer
+tillsammans och stämma av oftare. Mer fokus på UX än design.
+
 Jobba i mindre steg, ta en sak i taget.
+
 Dokumentera vad vi gör och vad som bestäms.
+
 Vi pausar grupparbetet denna vecka och stämmer av på fredag.
+
 Vill vi köra fler sprinter innan sommaren eller fortsätta lära oss Node.js?
+Fortsätta lära oss Node.js
 
 ##### OMRÖSTNING HEADER
 
@@ -289,16 +366,17 @@ Alternativ (med header) 1: Maggan:2, per: 3
 Alternativ (ingenting) 2: Maggan:3, per 1
 Alternativ (som overlay) 3: Maggan:1, per 2
 
-![omröstningHeader](./planning_media/)
+![omröstningHeader](./planning_media/vote_header.png)
 
 Inget beslut taget, bordläggs till nästa designsprint.
 
 Cicely möte, what to do? :)
-Set up tasks in Kanban
-Backend API endpoints
-Database Structure, how to store it in the database. (structure collections)
-Components in Storybook since they are individual.
-Pair programming - VsCode
+
+- Set up tasks in Kanban
+- Backend API endpoints
+- Database Structure, how to store it in the database. (structure collections)
+- Components in Storybook since they are individual.
+- Pair programming - VsCode
 
 ## Design
 
@@ -306,18 +384,18 @@ Pair programming - VsCode
 ![grannen2](./planning_media/Design/grannen2.png)
 ![grannskapet1](./planning_media/Design/grannskapet1.png)
 ![desc.](./planning_media/Design/image.png)
-![desc.](<./planning_media/Design/image(1).png>)
-![desc.](<./planning_media/Design/image(2).png>)
-![desc.](<./planning_media/Design/image(3).png>)
-![desc.](<./planning_media/Design/image(4).png>)
-![desc.](<./planning_media/Design/image(5).png>)
-![desc.](<./planning_media/Design/image(6).png>)
-![desc.](<./planning_media/Design/image(7).png>)
-![desc.](<./planning_media/Design/image(8).png>)
-![desc.](<./planning_media/Design/image(9).png>)
-![desc.](<./planning_media/Design/image(10).png>)
-![desc.](<./planning_media/Design/image(11).png>)
-![desc.](<./planning_media/Design/image(12).png>)
+![desc.](./planning_media/Design/image1.png)
+![desc.](./planning_media/Design/image2.png)
+![desc.](./planning_media/Design/image3.png)
+![desc.](./planning_media/Design/image4.png)
+![desc.](./planning_media/Design/image5.png)
+![desc.](./planning_media/Design/image6.png)
+![desc.](./planning_media/Design/image7.png)
+![desc.](./planning_media/Design/image8.png)
+![desc.](./planning_media/Design/image9.png)
+![desc.](./planning_media/Design/image10.png)
+![desc.](./planning_media/Design/image11.png)
+![desc.](./planning_media/Design/image12.png)
 
 ## Personas
 
