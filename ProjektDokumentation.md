@@ -2,10 +2,10 @@
 
 ## The Team
 
-[Andréas Ny](https://github.com/andreasnyh)
-[Hung Ta](https://link/ByHT)
-[Jonna F](https://github.com/jonnaliesel)
-[Per Egertun](https://github.com/peregertun)
+[Andréas Ny](https://github.com/andreasnyh),
+[Hung Ta](https://link/ByHT),
+[Jonna F](https://github.com/jonnaliesel),
+[Per Egertun](https://github.com/peregertun),
 [Simon Nordström](https://github.com/simonnord)
 
 I denna uppgift skall ni i grupp arbeta med att ta en idé från ett konceptstadie till en beta-release. Ni kan välja att arbeta med en egen idé i en grupp.
@@ -306,18 +306,18 @@ Pair programming - VsCode
 ![grannen2](./planning_media/Design/grannen2.png)
 ![grannskapet1](./planning_media/Design/grannskapet1.png)
 ![desc.](./planning_media/Design/image.png)
-![desc.](<./planning_media/Design/image%20(1).png>)
-![desc.](<./planning_media/Design/image%20(2).png>)
-![desc.](<./planning_media/Design/image%20(3).png>)
-![desc.](<./planning_media/Design/image%20(4).png>)
-![desc.](<./planning_media/Design/image%20(5).png>)
-![desc.](<./planning_media/Design/image%20(6).png>)
-![desc.](<./planning_media/Design/image%20(7).png>)
-![desc.](<./planning_media/Design/image%20(8).png>)
-![desc.](<./planning_media/Design/image%20(9).png>)
-![desc.](<./planning_media/Design/image%20(10).png>)
-![desc.](<./planning_media/Design/image%20(11).png>)
-![desc.](<./planning_media/Design/image%20(12).png>)
+![desc.](<./planning_media/Design/image(1).png>)
+![desc.](<./planning_media/Design/image(2).png>)
+![desc.](<./planning_media/Design/image(3).png>)
+![desc.](<./planning_media/Design/image(4).png>)
+![desc.](<./planning_media/Design/image(5).png>)
+![desc.](<./planning_media/Design/image(6).png>)
+![desc.](<./planning_media/Design/image(7).png>)
+![desc.](<./planning_media/Design/image(8).png>)
+![desc.](<./planning_media/Design/image(9).png>)
+![desc.](<./planning_media/Design/image(10).png>)
+![desc.](<./planning_media/Design/image(11).png>)
+![desc.](<./planning_media/Design/image(12).png>)
 
 ## Personas
 
