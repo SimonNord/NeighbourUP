@@ -1,6 +1,18 @@
 # Project NeighbourUp
 
-## Vad?
+## The Team
+
+[Andréas Ny](https://github.com/andreasnyh)
+[Hung Ta](https://link/ByHT)
+[Jonna F](https://github.com/jonnaliesel)
+[Per Egertun](https://github.com/peregertun)
+[Simon Nordström](https://github.com/simonnord)
+
+I denna uppgift skall ni i grupp arbeta med att ta en idé från ett konceptstadie till en beta-release. Ni kan välja att arbeta med en egen idé i en grupp.
+
+## Vad
+
+En app som..
 
 - Viktig info
 - Medlemsinfo
@@ -311,11 +323,11 @@ Pair programming - VsCode
 
 ### Eirik
 
-![Eirik](planning_media/Personas/Eirik%20_Simon_%20Kristensen.png)
+![Eirik](planning_media/Personas/Eirik_Simon_Kristensen.png)
 
 ### Kent
 
-![Kent](planning_media/Personas/Kid%20Kent.png)
+![Kent](planning_media/Personas/Kid_Kent.png)
 
 ### Maggan
 
@@ -323,12 +335,12 @@ Pair programming - VsCode
 
 ### Maria
 
-![Maria](planning_media/Personas/Maria%20Jensen.png)
+![Maria](planning_media/Personas/Maria_Jensen.png)
 
 ### Ove
 
-![Ove](<planning_media/Personas/Ove%2074%20(2).png>)
+![Ove](planning_media/Personas/Ove.png)
 
 ### Sally
 
-![Sally](planning_media/Personas/Single%20Sally.png)
+![Sally](planning_media/Personas/Single_Sally.png)
