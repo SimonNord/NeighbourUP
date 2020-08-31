@@ -1,9 +1,6 @@
 # Project NeighbourUp
 
-## Index
-
 - [Project NeighbourUp](#project-neighbourup)
-  - [Index](#index)
   - [The Team](#the-team)
   - [Vad gör NeighbourUp](#vad-gör-neighbourup)
   - [Features till MVP](#features-till-mvp)
@@ -17,25 +14,26 @@
     - [Sprint 1](#sprint-1)
       - [Planering (21-23 April)](#planering-21-23-april)
       - [Utvärdering](#utvärdering)
-    - [Möte med Cicely 13 maj 13-14:20](#möte-med-cicely-13-maj-13-1420)
-      - [Genomgång av arbetet hittills](#genomgång-av-arbetet-hittills)
-      - [Frågor](#frågor)
-    - [MVP](#mvp)
-  - [Hur vill vi lägga upp arbetet](#hur-vill-vi-lägga-upp-arbetet-1)
-    - [Vad ska vara klart innan sommaren](#vad-ska-vara-klart-innan-sommaren)
+        - [Hur vill vi lägga upp arbetet](#hur-vill-vi-lägga-upp-arbetet-1)
+        - [Vad ska vara klart innan sommaren](#vad-ska-vara-klart-innan-sommaren)
       - [Betygskriterier](#betygskriterier)
     - [Sprint 2 (23-27 April)](#sprint-2-23-27-april)
       - [Utvärdering](#utvärdering-1)
         - [Hur kan vi förbättras](#hur-kan-vi-förbättras)
     - [Sprint 3 (28-30 April)](#sprint-3-28-30-april)
       - [Frågor till Cicely](#frågor-till-cicely)
-      - [Utvärdering](#utvärdering-2)
+        - [Utvärdering](#utvärdering-2)
         - [Hur kan vi förbättras](#hur-kan-vi-förbättras-1)
     - [Sprint 4 (30 April- 4 Maj)](#sprint-4-30-april--4-maj)
       - [Utvärdering](#utvärdering-3)
-      - [Hur kan vi förbättras](#hur-kan-vi-förbättras-2)
-        - [OMRÖSTNING HEADER](#omröstning-header)
+        - [Hur kan vi förbättras](#hur-kan-vi-förbättras-2)
+      - [OMRÖSTNING HEADER](#omröstning-header)
+    - [Möte med Cicely 13 maj 13-14:20](#möte-med-cicely-13-maj-13-1420)
+      - [Genomgång av arbetet hittills](#genomgång-av-arbetet-hittills)
+      - [Frågor](#frågor)
+    - [MVP](#mvp)
   - [Design](#design)
+    - [Skisser](#skisser)
   - [Personas](#personas)
     - [Eirik](#eirik)
     - [Kent](#kent)
@@ -43,6 +41,18 @@
     - [Maria](#maria)
     - [Ove](#ove)
     - [Sally](#sally)
+  - [Flow Chart](#flow-chart)
+  - [Sketchboard](#sketchboard)
+  - [Logos](#logos)
+  - [Prototyper](#prototyper)
+    - [Andreas](#andreas)
+    - [Per](#per)
+    - [Simon](#simon)
+    - [Jonna](#jonna)
+  - [Final Prototype](#final-prototype)
+  - [Kanban Planering](#kanban-planering)
+    - [Planering Design/Prototyp](#planering-designprototyp)
+    - [Planering Kod](#planering-kod)
 
 ## The Team
 
@@ -158,46 +168,7 @@ Att alla ges plats, och uppmuntras
 Att allt känns okej att prata om
 Att vi gör det som grupp och inte one-man-show
 
-### Möte med Cicely 13 maj 13-14:20
-
-#### Genomgång av arbetet hittills
-
-Idé
-Prototyp
-Arbetsplanering
-Feedback
-Lägg till pronomen vid registrering
-
-#### Frågor
-
-- Testdriven utveckling? - Hur ska man testa?
-  [Cypress.io](https://www.cypress.io/) (Can look into “Cypress and BDD”)
-  Gherkin / cucumber
-- Vad ingår i en beta-release / MVP?
-  Prio 1 är lagom för uppgiften
-- Tips för dokumentation?
-  Koden ska vara självförklarande… helst.
-  Över-dokumentera inte
-  Dokumentera databasen, vad hur varför.
-- Kunna göra planering och ekonomisk beräkning för er idé?
-- Omfattningen vi har tänkt att göra klart för MVP är detta, kan det vara bra
-  eller krävs mer?
-  Omfattningen för vår prio 1 är lagon för uppgiftens omfattning.
-- Hur ska denna app tjäna pengar?
-  - Att man gör så att föreningar får prenumerera på tjänsten så att alla
-    medlemmar får tillgång till tjänsten.
-  - Lägga till någon typ av lokal reklam vid annonser.
-
-### MVP
-
-Prio 1
-
-1. Inlogg
-2. Se vilka som finns i närheten?
-3. Skapa annonser
-4. Kommunicera med grannar
-
-## Hur vill vi lägga upp arbetet
+##### Hur vill vi lägga upp arbetet
 
 - Daily standup 10:00 LST varje dag
 - Vad gjorde du igår?
@@ -224,7 +195,7 @@ Prio 1
   - Driven för möten och anteckningar
   - Dokumentera arbetet på GitHub med markdown
 
-### Vad ska vara klart innan sommaren
+##### Vad ska vara klart innan sommaren
 
 - Repo med projekt
 - Milestones
@@ -298,7 +269,7 @@ vi kan boka om.
   - Inloggningsformulär
 - Logga/grafisk profil
 
-#### Utvärdering
+##### Utvärdering
 
 Vi tycker att denna sprinten har varit bättre än den förra, bättre samarbete och
 många känner sig produktiva.
@@ -339,7 +310,7 @@ Vi vill egentligen helst undvika jobb under helgen och att vi då istället skju
 på sprinten. I detta fall var det svårt eftersom att vi trodde att föreläsningar
 skulle starta denna vecka.
 
-#### Hur kan vi förbättras
+##### Hur kan vi förbättras
 
 Att vi under standups har diskussion om problem eller vägskäl.
 Till och med rösta om hur vi vill ha det, så att vi inte fastnar någonstans på vägen.
@@ -360,7 +331,7 @@ Vi pausar grupparbetet denna vecka och stämmer av på fredag.
 Vill vi köra fler sprinter innan sommaren eller fortsätta lära oss Node.js?
 Fortsätta lära oss Node.js
 
-##### OMRÖSTNING HEADER
+#### OMRÖSTNING HEADER
 
 Alternativ (med header) 1: Maggan:2, per: 3
 Alternativ (ingenting) 2: Maggan:3, per 1
@@ -378,8 +349,56 @@ Cicely möte, what to do? :)
 - Components in Storybook since they are individual.
 - Pair programming - VsCode
 
+### Möte med Cicely 13 maj 13-14:20
+
+#### Genomgång av arbetet hittills
+
+Idé
+Prototyp
+Arbetsplanering
+Feedback
+Lägg till pronomen vid registrering
+
+#### Frågor
+
+- Testdriven utveckling? - Hur ska man testa?
+  [Cypress.io](https://www.cypress.io/) (Can look into “Cypress and BDD”)
+  Gherkin / cucumber
+- Vad ingår i en beta-release / MVP?
+  Prio 1 är lagom för uppgiften
+- Tips för dokumentation?
+  Koden ska vara självförklarande… helst.
+  Över-dokumentera inte
+  Dokumentera databasen, vad hur varför.
+- Kunna göra planering och ekonomisk beräkning för er idé?
+- Omfattningen vi har tänkt att göra klart för MVP är detta, kan det vara bra
+  eller krävs mer?
+  Omfattningen för vår prio 1 är lagon för uppgiftens omfattning.
+- Hur ska denna app tjäna pengar?
+  - Att man gör så att föreningar får prenumerera på tjänsten så att alla
+    medlemmar får tillgång till tjänsten.
+  - Lägga till någon typ av lokal reklam vid annonser.
+
+### MVP
+
+Prio 1
+
+1. Inlogg
+2. Se vilka som finns i närheten?
+3. Skapa annonser
+4. Kommunicera med grannar
+
 ## Design
 
+### Skisser
+
+![Andreas](./planning_media/Skisser/skiss_Andreas.png)
+![Hung](./planning_media/Skisser/skiss_Hung.png)
+![Jonna](./planning_media/Skisser/skiss_Jonna.png)
+![Per](./planning_media/Skisser/skiss_Per.png)
+![Simon](./planning_media/Skisser/skiss_Simon.png)
+
+<!--
 ![grannen1](./planning_media/Design/grannen1.png)
 ![grannen2](./planning_media/Design/grannen2.png)
 ![grannskapet1](./planning_media/Design/grannskapet1.png)
@@ -396,6 +415,7 @@ Cicely möte, what to do? :)
 ![desc.](./planning_media/Design/image10.png)
 ![desc.](./planning_media/Design/image11.png)
 ![desc.](./planning_media/Design/image12.png)
+-->
 
 ## Personas
 
@@ -422,3 +442,47 @@ Cicely möte, what to do? :)
 ### Sally
 
 ![Sally](planning_media/Personas/Single_Sally.png)
+
+## Flow Chart
+
+![Flow](./planning_media/FlowChart.png)
+
+## Sketchboard
+
+![Flow](./planning_media/sketchboard.png)
+
+## Logos
+
+## Prototyper
+
+### Andreas
+
+[Andreas Prototyp 1](<<https://www.figma.com/file/pdReiSDeZ3wnMitw17HIMv/wireframe-0.1-(Copy)>>)
+
+[Andreas Prototyp 2](https://www.figma.com/file/tKtYFQalyQMZqNIP4SHgts/prototype_v_001)
+
+### Per
+
+[Per Prototyp](https://www.figma.com/file/yitVDa6M6gARvN4z91OicN/NUP)
+
+### Simon
+
+[Simon Prototyp](https://www.figma.com/file/NlHz5mbVkUTErunnKiy1zi/Untitled)
+
+### Jonna
+
+[Jonna Prototyp](https://www.figma.com/file/wTnyA9eztpGKhRCbQZR5V3/NeghbourUP---prototype?node-id=0%3A1)
+
+## Final Prototype
+
+[Slutgiltig Prototyp](https://www.figma.com/file/Eso3E7yaoJ9XfQNEeHWi8l/Untitled)
+
+## Kanban Planering
+
+### Planering Design/Prototyp
+
+[Github Kanban Planering](https://github.com/SimonNord/NeighbourUP/projects/3)
+
+### Planering Kod
+
+[Github Kanban Kod](https://github.com/SimonNord/NeighbourUP/projects/1)
