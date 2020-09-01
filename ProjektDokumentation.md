@@ -453,11 +453,11 @@ Prio 1
 
 ## Logos
 
-![Andreas](./planning_media/Logos/andreaslogos2.png)
-![Andreas2](./planning_media/Logos/andreaslogos.jpg)
-![Hung](./planning_media/Logos/hungslogos.png)
-![Jonna](./planning_media/Logos/jonnaslogos.png)
-![Per](./planning_media/Logos/perslogos.png)
+![Andreas](./planning_media/andreaslogos2.png)
+![Andreas2](./planning_media/andreaslogos.jpg)
+![Hung](./planning_media/hungslogos.png)
+![Jonna](./planning_media/jonnaslogos.png)
+![Per](./planning_media/perslogos.png)
 
 ## Prototyper
 
