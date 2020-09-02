@@ -1,5 +1,7 @@
 # NeighbourUP
 
+Read about our process in [ProjektDokumentation.md](./ProjektDokumentation.md)
+
 ## Getting started
 
 Clone the project with `git clone "https://github.com/SimonNord/NeighbourUP.git"`
